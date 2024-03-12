@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/Chandan07nikhil/Chandan07nikhil/blob/main/Animation%20-%201710251591895.gif)"  />
 
 ###
 
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chandan07nikhil/Chandan07nikhil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Chandan07nikhil/Chandan07nikhil/main/snake.jpg" alt="Snake animation" />
 
 ###
