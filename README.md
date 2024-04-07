@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chandan and I'm a Frontend developer, from Delhi, India.</h2>
+<h2 align="left">Hi 👋! My name is Chandan and I'm a Full stack developer, from Delhi, India.</h2>
 
 ###
 
